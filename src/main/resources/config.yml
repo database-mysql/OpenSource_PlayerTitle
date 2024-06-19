@@ -1,0 +1,13 @@
+# 服务器
+Server:
+  # 插件开关
+  Enable: true
+# 玩家
+Player:
+  # 玩家默认Title
+  DefeatTitle:  "&f[&d萌新玩家&f]&r"
+  # 玩家默认后缀Suffix
+  DefeatSuffix: ""
+
+  #删除称号请直接删除整行 例子(Love_Title: "520")
+  #删除后缀请直接删除整行 例子(Love_Suffix: "1314")

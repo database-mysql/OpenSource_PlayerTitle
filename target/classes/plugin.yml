@@ -1,0 +1,22 @@
+name: OpenSource_PlayerTitle
+version: '1.2-SNAPSHOT'
+main: top.gtb520.plugin.OpenSource_PlayerTitle.main
+api-version: '1.20'
+authors: [ OpenSource-Studio ]
+description: OpenSourceTitle
+commands:
+  OpenSourceTitle:
+    aliases:
+      - ost
+      - ospt
+    description: 开源称号插件
+permissions:
+  OpenSourceTitle.Reload:
+    description: 重载插件
+    default: op
+  OpenSourceTitle.GivePlayerTitle:
+    description: 给予玩家称号(需要提前在config.yml里配置)
+    default: op
+  OpenSourceTitle.GivePlayerSuffix:
+    description: 给予玩家后缀称号(需要提前在config.yml里配置)
+    default: op

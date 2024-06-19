@@ -1,0 +1,7 @@
+top\gtb520\plugin\OpenSource_PlayerTitle\commands\title.class
+top\gtb520\plugin\OpenSource_PlayerTitle\main.class
+top\gtb520\plugin\OpenSource_PlayerTitle\commands\command_list.class
+top\gtb520\plugin\OpenSource_PlayerTitle\unity\YamlFile_Utils.class
+top\gtb520\plugin\OpenSource_PlayerTitle\PlayerChat.class
+top\gtb520\plugin\OpenSource_PlayerTitle\unity\PlaceholderAPI.class
+top\gtb520\plugin\OpenSource_PlayerTitle\unity\tools.class
